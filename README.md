@@ -14,9 +14,15 @@ What things you need to install the software and how to install them
 ```
 Webpack
 ```
+
+```
 VUEJS
 ```
+
+```
 ES6
+```
+
 ```
 Element UI
 
